@@ -1,0 +1,7 @@
+/tests/
+/portable/*.exe
+*.user
+*.suo
+.vs/
+bin/
+obj/
